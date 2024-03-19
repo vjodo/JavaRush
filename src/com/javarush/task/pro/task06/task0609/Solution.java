@@ -13,5 +13,5 @@ public class Solution {
         return a*a*a;
     }
 
-    //напишите тут ваш код
+    //напишите тут ваш ко
 }
