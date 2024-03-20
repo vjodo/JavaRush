@@ -1,7 +1,7 @@
 package com.javarush.task.pro.task06.task0615;
 
 /*
-Все что нужно знать о Земле
+Все что нужно знать о Земле1
 */
 
 public class Earth {

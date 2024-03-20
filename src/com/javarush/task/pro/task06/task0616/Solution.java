@@ -1,7 +1,7 @@
 package com.javarush.task.pro.task06.task0616;
 
 /*
-Учет работников
+Учет работников1
 */
 
 public class Solution {

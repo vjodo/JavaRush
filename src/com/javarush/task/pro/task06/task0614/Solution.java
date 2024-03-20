@@ -1,7 +1,7 @@
 package com.javarush.task.pro.task06.task0614;
 
 /*
-Вспоминаем геометрию
+Вспоминаем геометрию1
 */
 
 public class Solution {

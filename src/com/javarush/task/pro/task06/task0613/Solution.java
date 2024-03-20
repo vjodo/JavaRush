@@ -1,7 +1,7 @@
 package com.javarush.task.pro.task06.task0613;
 
 /*
-Города-гиганты
+Города-гиганты1
 */
 
 public class Solution {

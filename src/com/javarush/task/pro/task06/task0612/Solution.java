@@ -1,7 +1,7 @@
 package com.javarush.task.pro.task06.task0612;
 
 /*
-У всего есть корень
+У всего есть корень1
 */
 
 public class Solution {

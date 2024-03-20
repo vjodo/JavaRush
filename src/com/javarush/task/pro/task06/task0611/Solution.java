@@ -1,7 +1,7 @@
 package com.javarush.task.pro.task06.task0611;
 
 /*
-Анализ массивов
+Анализ массивов1
 */
 
 public class Solution {
