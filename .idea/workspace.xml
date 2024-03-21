@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a70fb8ed-0195-4ec9-b583-d352f34ed16c" name="Changes" comment="Уровень 7. Функции">
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task06/task0612/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task06/task0613/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task06/task0614/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task06/task0615/Earth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task06/task0616/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0701/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="a70fb8ed-0195-4ec9-b583-d352f34ed16c" name="Changes" comment="Уровень 8. Типы данных">
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0702/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0703/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0704/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0705/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0706/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0707/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0708/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0709/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0710/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0711/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0713/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +61,13 @@
       <recent name="C:\projects\TEsts\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task06.task0611.Solution" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task07.task0711.Solution" />
       <module name="Javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task06.task0611.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task07.task0711.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task06.task0612.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task07.task0705.Solution" />
       <module name="Javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task06.task0612.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task07.task0705.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +89,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task06.task0613.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task07.task0708.Solution" />
       <module name="Javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task06.task0613.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task07.task0708.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +102,11 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task06.task0614.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task07.task0707.Solution" />
       <module name="Javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task06.task0614.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task07.task0707.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +115,24 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task06.task0610.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task07.task0706.Solution" />
       <module name="Javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task06.task0610.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task07.task0706.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task07.task0710.Solution" />
+      <module name="Javarush" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task07.task0710.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +193,28 @@
       <option name="project" value="LOCAL" />
       <updated>1710886453757</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Уровень 7. Функции">
+      <created>1710938798605</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710938798605</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Уровень 7. Функции">
+      <created>1710938917079</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710938917079</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Уровень 8. Типы данных">
+      <created>1710939026650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710939026650</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +232,7 @@
     <MESSAGE value="1" />
     <MESSAGE value="LH" />
     <MESSAGE value="Уровень 7. Функции" />
-    <option name="LAST_COMMIT_MESSAGE" value="Уровень 7. Функции" />
+    <MESSAGE value="Уровень 8. Типы данных" />
+    <option name="LAST_COMMIT_MESSAGE" value="Уровень 8. Типы данных" />
   </component>
 </project>
