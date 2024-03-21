@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70fb8ed-0195-4ec9-b583-d352f34ed16c" name="Changes" comment="Уровень 8. Типы данных">
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0702/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0703/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0704/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0705/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0706/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0707/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0708/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0709/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0710/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0711/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0713/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0713/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0713/Terran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0714/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0714/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0714/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0713/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0713/Woman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710939026650</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Уровень 8. Типы данных">
+      <created>1711044131352</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711044131352</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
