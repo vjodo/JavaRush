@@ -6,7 +6,7 @@ public class Solution {
 
 
     public static void main(String[] args) {
-        String hexNumber = "9d0ds";
+        String hexNumber = "564f";
         String HEX = "0123456789abcdef";
         String compare = "1";
         String symbol = "";
@@ -30,6 +30,7 @@ public class Solution {
                 break;
             }
         }
+        System.out.println(resultInter);
         if (compare.equals("1")) {
             String result = "";
             while (resultInter != 0) {
