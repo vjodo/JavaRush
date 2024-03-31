@@ -62,18 +62,17 @@ public class Solution {
         String HEX = "0123456789abcdef";
         String compare = "1";
         String symbol = "";
-        int x = 0;
-        int resultInter = 0;
+        String x = "";
 
-        if (hexNumber != null) {
-            for (int i = 0; i < hexNumber.length(); i++) { //создание массива и преверка на совпаждение с 16тиричными символами
+        if (hexNumber != null && hexNumber != "") {
+            int[] resultInter = new int[hexNumber.length()];
+            for (int i = 0; i < hexNumber.length(); i++) { //создание массива и преверка на совпадение с 16тиричными символами
                 if (compare.equals("1")) {
                     symbol = String.valueOf(hexNumber.charAt(i));
-                    x = HEX.indexOf(symbol) * (int) Math.pow(16, (hexNumber.length() - i - 1));
-                    resultInter += x;
                     for (int j = 0; j < HEX.length(); j++) {
                         if ((String.valueOf(HEX.charAt(j))).equals(symbol)) {
                             compare = "1";
+                            resultInter[i] = HEX.indexOf(symbol);
                             break;
                         } else {
                             compare = "0";
@@ -84,18 +83,24 @@ public class Solution {
                 }
             }
             if (compare.equals("1")) {
-                String result = "";
-                while (resultInter != 0) {
-                    if (resultInter >= 2) {
-                        result = result + String.valueOf(resultInter % 2);
-                        resultInter = resultInter / 2;
-                    } else {
-                        result = result + String.valueOf(resultInter);
-                        break;
+                for (int i = 0; i < hexNumber.length(); i++) {
+                    String result = "";
+                    while (resultInter[i] != 0) {
+                        if (resultInter[i] >= 2) {
+                            result = result + String.valueOf(resultInter[i] % 2);
+                            resultInter[i] = resultInter[i] / 2;
+                        } else {
+                            result = result + String.valueOf(resultInter[i]);
+                            break;
+                        }
                     }
+                    while (result.length() < 4 && i != 0) {
+                        result += "0";
+                    }
+                    String reversed = new StringBuilder(result).reverse().toString();
+                    x += reversed;
                 }
-                String reversed = new StringBuilder(result).reverse().toString();
-                return reversed;
+                return x;
             } else {
                 return "";
             }
@@ -104,3 +109,4 @@ public class Solution {
         }
     }
 }
+
