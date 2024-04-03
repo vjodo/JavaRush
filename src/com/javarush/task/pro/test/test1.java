@@ -1,10 +1,19 @@
 package com.javarush.task.pro.test;
 
+import java.util.Arrays;
+import java.util.StringTokenizer;
+
 public class test1 {
     public static void main(String[] args) {
-int x = 2 % 2;
-        System.out.println(x);
+        String query = "java.util.stream";
+        String delimiter = "\\.";
+        StringTokenizer s = new StringTokenizer(query, delimiter);
+        String[] token = new String[3];
+        int i = 0;
+        while (s.hasMoreTokens()){
+            token[i] = s.nextToken();
+            i++;
+        }
+        System.out.println(Arrays.toString(token));
     }
 }
-        //x = HEX.indexOf(symbol) * (int) Math.pow(16, (hexNumber.length() - i - 1));
-//                       6                                      13           0   1
