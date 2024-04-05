@@ -10,7 +10,7 @@ public class Solution {
         div(0.0d, -5);
     }
 
-    public static void div(double a, double b){
-        System.out.println(b/a);
+    public static void div(double a, double b) {
+        System.out.println(b / a);
     }
 }
