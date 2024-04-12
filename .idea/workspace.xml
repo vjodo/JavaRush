@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a70fb8ed-0195-4ec9-b583-d352f34ed16c" name="Changes" comment="Уровень 10. Работа со строками">
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1001/Skyscraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1002/Skyscraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1003/Skyscraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1004/CarConcern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1005/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1006/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1006/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1006/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1006/HybridCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1006/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1007/Bugatti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1008/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1009/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1010/Iphone.java" afterDir="false" />
+    <list default="true" id="a70fb8ed-0195-4ec9-b583-d352f34ed16c" name="Changes" comment="Уровень 11. Объекты">
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1011/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1012/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1013/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1014/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1015/Hedgehog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1016/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1016/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1017/Africa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1017/Antarctica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1017/Australia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1017/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1017/Eurasia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1017/NorthAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1017/SouthAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1018/Coordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1018/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1019/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1020/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1020/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1020/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1020/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1020/SystemUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1021/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/test/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0705/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task07/task0705/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/test/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/test/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1010/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1010/Iphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/pro/test/Test1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +77,13 @@
       <recent name="C:\projects\TEsts\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Iphone">
-    <configuration name="Iphone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1010.Iphone" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Earth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1017.Earth" />
       <module name="Javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1010.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task10.task1017.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +92,24 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1009.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1018.Solution" />
       <module name="Javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1009.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task10.task1018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1019.Solution" />
+      <module name="Javarush" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task10.task1019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1006.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1016.Solution" />
       <module name="Javarush" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1006.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task10.task1016.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,34 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.task0514.Solution" />
-      <module name="TEsts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.task0514.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.test.Test1" />
-      <module name="Javarush" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.test.Test2" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.test.Test" />
       <module name="Javarush" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Iphone" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Earth" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712257651843</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Уровень 11. Объекты">
+      <created>1712338340926</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712338340926</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,7 +308,8 @@
     <MESSAGE value="Уровень 7. Функции" />
     <MESSAGE value="Уровень 8. Типы данных" />
     <MESSAGE value="Уровень 10. Работа со строками" />
-    <option name="LAST_COMMIT_MESSAGE" value="Уровень 10. Работа со строками" />
+    <MESSAGE value="Уровень 11. Объекты" />
+    <option name="LAST_COMMIT_MESSAGE" value="Уровень 11. Объекты" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -324,9 +330,19 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/javarush/task/pro/test/Test1.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="35" />
+          <url>file://$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1011/Car.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1018/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/javarush/task/pro/task10/task1019/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

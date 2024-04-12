@@ -1,6 +1,4 @@
-package com.javarush.task.pro.task10.task1010;
-
-import java.util.Objects;
+package com.javarush.task.pro.test;
 
 public class Iphone {
     private String model;
@@ -14,17 +12,16 @@ public class Iphone {
     }
 
     public boolean equals(Object obj) {
-        if (obj == null)
-            return false;
         if (this == obj)
             return true;
-        if (!(obj instanceof Iphone))
+        if (obj == null)
             return false;
+
         Iphone iphone = (Iphone) obj;
 
         if (price != iphone.price) {
             return false;
-        } else if (model == iphone.model && color == iphone.color) {
+        } else if (model.equals(iphone.model) && color.equals(iphone.color)) {
             return true;
         } else {
             return false;
@@ -36,6 +33,8 @@ public class Iphone {
         Iphone iphone2 = new Iphone("X", "Black", 999);
 
         System.out.println(iphone1.equals(iphone2));
-    }
 
+    }
 }
+
+
