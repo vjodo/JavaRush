@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class StringLinkedList {
     private Node first = new Node();
     private Node last = new Node();
+ //   private Node node = new Node();
 
     public void printAll() {
         Node currentElement = first.next;
@@ -17,13 +18,14 @@ public class StringLinkedList {
 
     public void add(String value) {
         Node node = new Node();
-        ArrayList<String> array = new ArrayList<>();
-        if (node.value == null){
-            array.add(first);
-            array.add(last);
+        node.value = value;
+        if (first.next == null) {
+            first.next = node;
+        } else {
+            last.prev.next = node;
+            node.prev = last.prev;
         }
-            array.add(value);
-
+        last.prev = node;
 
     }
 
