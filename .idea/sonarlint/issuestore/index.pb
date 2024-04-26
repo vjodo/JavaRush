@@ -248,3 +248,17 @@ g
 7src/com/javarush/task/pro/task13/task1305/Solution.java,d\0\d0b7acc78de59650dab11a465ac09feb634d5b2d
 g
 7src/com/javarush/task/pro/task13/task1303/Solution.java,8\a\8a24b5da82b1ecca77dc00c99cfb70ca97f9f2a1
+g
+7src/com/javarush/task/pro/task14/task1407/Solution.java,b\0\b017bb6933e6430542c9cecbc6cb9a0961b1c5cd
+c
+3src/com/javarush/task/pro/task14/task1407/Food.java,a\1\a11da8336afda36dea85e1c2d618414e451f5e46
+c
+3src/com/javarush/task/pro/task14/task1407/Lion.java,4\3\434560071818f40b8f182a0b0b5a8290427bbc0f
+Z
+*src/com/javarush/task/pro/test/Googlr.java,9\5\95256d5774b47c17ed4745a6746505924ba597a7
+g
+7src/com/javarush/task/pro/task14/task1404/Solution.java,1\5\1595ed41c77e61dd0599b83ec48c3bb135c9f66a
+g
+7src/com/javarush/task/pro/task14/task1406/Solution.java,f\2\f2f331ca612a4c3651584e5adfe4bfe8c10ffd0d
+g
+7src/com/javarush/task/pro/task14/task1408/Solution.java,e\6\e67509a479f7727229e720a7cdc61022c10d193a
